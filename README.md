@@ -1,5 +1,11 @@
 # React Native progress bar with reanimated v2
 
+
+# Video
+
+![progress-gif](https://user-images.githubusercontent.com/35267648/194765248-66a31fe4-7a4b-4d48-855f-550918641e23.gif)
+
+
 Clone repo
 
 ```
